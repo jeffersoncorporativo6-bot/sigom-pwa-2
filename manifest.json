@@ -1,0 +1,17 @@
+{
+  "name": "SIGOM - Sistema Integrado de Gestão de Ordens de Manutenção",
+  "short_name": "SIGOM",
+  "description": "Emissão e gestão de Ordens de Manutenção da OM POWER - Novo Tempo Barcarena",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#EEF0EC",
+  "theme_color": "#27405E",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
