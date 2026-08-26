@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.sigom_pwa_2.twa",
+        "sha256_cert_fingerprints": ["59:49:12:21:AF:42:8C:F0:20:B0:A0:54:6A:3B:D7:FD:A1:FF:E8:6C:C0:A6:AF:B5:A9:A9:92:7D:37:43:78:76"]
+      }
+    }]
